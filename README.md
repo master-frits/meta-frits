@@ -32,3 +32,6 @@ My advice is to add this layer by hand to get practice with this.
 # Building and Running
 - Build example: `bitbake core-image-minimal`
 - Run example using qemu: `runqemu nographic`
+
+# Creation Notes
+This layer was created with the help of Microsoft Copilot, whose guidance supported me in understanding the Walnascar-specific changes in Yocto.
