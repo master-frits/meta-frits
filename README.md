@@ -2,6 +2,7 @@
 
 A minimal Yocto layer for the **Walnascar** release (Yocto Project 5.0).  
 This layer demonstrates how to install a simple file (`frits.txt`) into `/home/root/` in the final image.
+It also shows how to solve the error message: 'Using S = ${WORKDIR} is no longer supported'.
 
 ## Features
 - Compatible with Yocto **Walnascar**
