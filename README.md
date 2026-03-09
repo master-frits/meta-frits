@@ -6,7 +6,7 @@ It also shows how to solve the error message: 'Using S = ${WORKDIR} is no longer
 
 ## Features
 - Compatible with Yocto **Walnascar**
-- Demonstrates the new `S = "${UNPACKDIR}"` requirement
+- Demonstrates the new `S = "${UNPACKDIR}"` requirement (solves 'Using S = ${WORKDIR} is no longer supported' error message)
 - Shows how to install a file into the root filesystem
 
 ## Usage
